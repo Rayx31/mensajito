@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mensajito
+    </title>
+    <style>
+        .love-message {
+            font-size: 24px;
+            font-weight: bold;
+            color: rgb(253, 83, 177);
+        }
+    </style>
+</head>
+<body>
+    <div class="love-message">♡ iTe amo muchito! ♡</div>
+    <img src="https://www.instagram.com/p/C0ck0khoj7JOHkyMT5t68AMiT7Yhjc48uIe62E0/" alt="1">
+</body>
+</html>
