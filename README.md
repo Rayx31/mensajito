@@ -13,7 +13,6 @@
 </head>
 <body>
     <div class="love-message">♡ iTe amo muchito! ♡</div>
-    <img class ="imagen1" src="imag/img.jpg.png" alt="">
 </body>
 </html>
 .imagen {
